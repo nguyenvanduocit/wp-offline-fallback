@@ -3,7 +3,7 @@
 /*
 Plugin Name: WP Offline Fallback
 Plugin URI: http://laptrinh.senviet.org
-Description: Make your website valuable even when offline.
+Description: Help you show a message to users when they visit your website without internet. Yes, it's possible.
 Version: 1.0.0
 Author: nguyenvanduocit
 Author URI: http://senviet.org

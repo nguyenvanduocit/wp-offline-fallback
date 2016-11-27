@@ -1,4 +1,5 @@
 === WP Offline Fallback ===
+
 Contributors: nguyenvanduocit
 Tags: offline, service worker, plugins, errors
 Donate link: http://laptrinh.senviet.org
