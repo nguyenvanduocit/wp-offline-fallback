@@ -29,7 +29,7 @@ function wpof_admin_notices(){
 	if(($screen->parent_file == 'edit.php?post_type=page') && isset($_GET['post'])){
 		$page = get_post($_GET['post']);
 		if($page && ($page->post_name == 'offline-fallback')){
-			wpof_render_notice(__( 'WP Offline Fallback: To see the changes, you must test in incognito mode, or close off the tab and reopen.', 'wpof' ));
+			wpof_render_notice(__( 'WP Offline Fallback: To see the changes, you must test in incognito mode, or close all the tab then reopen.', 'wpof' ));
 			return;
 		}
 	}
